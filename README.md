@@ -1,2 +1,1 @@
-# metabase
-MetaBase Docker
+# MetaBase Docker
